@@ -3,11 +3,11 @@
 Check out the latest posts from my blog about Web Development:
 
 <!-- BLOG-POST-LIST:START -->
+- [Less Native, More React](https://onwebfocus.com/numic)
 - [Why You Shouldn&#39;t Dismiss Serverless](https://onwebfocus.com/serverless)
 - [GraphQL](https://onwebfocus.com/graphql)
 - [TypeScript Adoption](https://onwebfocus.com/typescript)
 - [Color and Project Configuration](https://onwebfocus.com/color)
 - [Rust](https://onwebfocus.com/rust)
 - [Abstraction in Programming](https://onwebfocus.com/abstraction)
-- [The Mythical Monorepo](https://onwebfocus.com/mono-repo)
 <!-- BLOG-POST-LIST:END -->
