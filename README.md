@@ -3,11 +3,11 @@
 Check out the latest posts from my blog about Web Development:
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying Out Rspack and Mitosis](https://onwebfocus.com/rspack)
 - [Building a 3D Website with React](https://onwebfocus.com/three)
 - [tRPC, HTML &amp; CSS and Serverless Databases](https://onwebfocus.com/trpc)
 - [Authentication](https://onwebfocus.com/authentication)
 - [Designing as a Developer](https://onwebfocus.com/design)
 - [Responsive React Native?!](https://onwebfocus.com/styled)
 - [Security and Privacy](https://onwebfocus.com/security)
-- [Less Native, More React](https://onwebfocus.com/numic)
 <!-- BLOG-POST-LIST:END -->
