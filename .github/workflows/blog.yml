@@ -3,7 +3,7 @@ name: blog
 on:
   push:
     branches: [main]
-  # New posts published every monday at 12, run schedule to update at 14 o'clock.
+  # Run schedule to update every Monday at 15 o'clock (Zurich time).
   schedule:
     - cron: "0 14 * * 1"
 
@@ -11,8 +11,8 @@ jobs:
   update-posts:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@1.6.3
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://onwebfocus.com/api/feed/rss.xml"
           max_post_count: 7

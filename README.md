@@ -1,4 +1,4 @@
-**Hi there** 👋, I'm a Web Developer experienced in node, React and React Native among others. As part of my work creating corporate websites I've created several Open Source plugins to simplify the creation of websites.
+**Hi there** 👋, I'm a Web Developer experienced in Node.js, React and React Native among others. As part of my work creating corporate websites I've created several Open Source plugins to simplify the creation of websites.
 
 Check out the latest posts from my blog about Web Development:
 
