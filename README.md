@@ -34,20 +34,8 @@ Check out the latest posts from my blog about Web Development:
 
 ## 🚧 EPIC Framework (in Development)
 
-<p float="left">
-    <a style="text-decoration: none" href="https://github.com/tobua/epic-jsx">
-        <img src="https://github.com/tobua/tobua/raw/main/images/epic-jsx.png" width="19.6%" alt="epic-jsx" />
-    </a>
-    <a style="text-decoration: none" href="https://github.com/tobua/epic-state">
-        <img src="https://github.com/tobua/tobua/raw/main/images/epic-state.png" width="19.6%" alt="epic-state" />
-    </a>
-    <a style="text-decoration: none" href="https://github.com/tobua/epic-tag">
-        <img src="https://github.com/tobua/tobua/raw/main/images/epic-tag.png" width="19.6%" alt="epic-tag" />
-    </a>
-    <a style="text-decoration: none" href="https://github.com/tobua/epic-router">
-        <img src="https://github.com/tobua/tobua/raw/main/images/epic-router.png" width="19.6%" alt="epic-router" />
-    </a>
-    <a style="text-decoration: none" href="https://github.com/tobua/epic-language">
-        <img src="https://github.com/tobua/tobua/raw/main/images/epic-language.png" width="19.6%" alt="epic-language" />
-    </a>
-<p>
+[<img alt="epic-jsx" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/epic-jsx.png" />](https://github.com/tobua/epic-jsx)
+[<img alt="epic-state" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/epic-state.png" />](https://github.com/tobua/epic-state)
+[<img alt="epic-tag" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/epic-tag.png" />](https://github.com/tobua/epic-tag)
+[<img alt="epic-router" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/epic-router.png" />](https://github.com/tobua/epic-router)
+[<img alt="epic-language" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/epic-language.png" />](https://github.com/tobua/epic-language)
