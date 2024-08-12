@@ -12,27 +12,15 @@ Check out the latest posts from my blog about Web Development:
 - [Testing in Web Development](https://onwebfocus.com/testing)
 <!-- BLOG-POST-LIST:END -->
 
-## 🧪 TypeScript Source Plugin Series
+## TypeScript Source Plugin Series 🧪
 
-<p float="left">
-    <a style="text-decoration: none" href="https://github.com/tobua/zero-configuration">
-        <img src="https://github.com/tobua/tobua/raw/main/images/zero-configuration.png" width="19.6%" alt="zero-configuration" />
-    </a>
-    <a style="text-decoration: none" href="https://github.com/tobua/masua">
-        <img src="https://github.com/tobua/tobua/raw/main/images/masua.png" width="19.6%" alt="masua" />
-    </a>
-    <a style="text-decoration: none" href="https://github.com/tobua/overflow-scroll-fade">
-        <img src="https://github.com/tobua/tobua/raw/main/images/overflow-scroll-fade.png" width="19.6%" alt="overflow-scroll-fade" />
-    </a>
-    <a style="text-decoration: none" href="https://github.com/tobua/optica">
-        <img src="https://github.com/tobua/tobua/raw/main/images/optica.png" width="19.6%" alt="optica" />
-    </a>
-    <a style="text-decoration: none" href="https://github.com/tobua/epic-cli">
-        <img src="https://github.com/tobua/tobua/raw/main/images/epic-cli.png" width="19.6%" alt="epic-cli" />
-    </a>
-<p>
+[![zero-configuration](https://github.com/tobua/tobua/raw/main/images/zero-configuration.png)](https://github.com/tobua/zero-configuration)
+[![masua](https://github.com/tobua/tobua/raw/main/images/masua.png)](https://github.com/tobua/masua)
+[![overflow-scroll-fade](https://github.com/tobua/tobua/raw/main/images/overflow-scroll-fade.png)](https://github.com/tobua/overflow-scroll-fade)
+[![optica](https://github.com/tobua/tobua/raw/main/images/optica.png)](https://github.com/tobua/optica)
+[![epic-cli](https://github.com/tobua/tobua/raw/main/images/epic-cli.png)](https://github.com/tobua/epic-cli)
 
-## 🚧 EPIC Framework (in Development)
+## EPIC Framework (in Development) 🚧
 
 [<img alt="epic-jsx" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/epic-jsx.png" />](https://github.com/tobua/epic-jsx)
 [<img alt="epic-state" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/epic-state.png" />](https://github.com/tobua/epic-state)
