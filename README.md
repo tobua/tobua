@@ -14,11 +14,11 @@ Check out the latest posts from my blog about Web Development:
 
 ## TypeScript Source Plugin Series 🧪
 
-[![zero-configuration](https://github.com/tobua/tobua/raw/main/images/zero-configuration.png)](https://github.com/tobua/zero-configuration)
-[![masua](https://github.com/tobua/tobua/raw/main/images/masua.png)](https://github.com/tobua/masua)
-[![overflow-scroll-fade](https://github.com/tobua/tobua/raw/main/images/overflow-scroll-fade.png)](https://github.com/tobua/overflow-scroll-fade)
-[![optica](https://github.com/tobua/tobua/raw/main/images/optica.png)](https://github.com/tobua/optica)
-[![epic-cli](https://github.com/tobua/tobua/raw/main/images/epic-cli.png)](https://github.com/tobua/epic-cli)
+[<img alt="zero-configuration" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/zero-configuration.png" />](https://github.com/tobua/zero-configuration)
+[<img alt="masua" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/masua.png" />](https://github.com/tobua/masua)
+[<img alt="overflow-scroll-fade" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/overflow-scroll-fade.png" />](https://github.com/tobua/overflow-scroll-fade)
+[<img alt="optica" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/optica.png" />](https://github.com/tobua/optica)
+[<img alt="epic-cli" width="19.6%" src="https://github.com/tobua/tobua/raw/main/images/epic-cli.png" />](https://github.com/tobua/epic-cli)
 
 ## EPIC Framework (in Development) 🚧
 
