@@ -12,22 +12,42 @@ Check out the latest posts from my blog about Web Development:
 - [Testing in Web Development](https://onwebfocus.com/testing)
 <!-- BLOG-POST-LIST:END -->
 
-## TypeScript Source Plugin Series
+## 🧪 TypeScript Source Plugin Series
 
 <p float="left">
-    <a href="https://github.com/tobua/masua">
-        <img src="https://github.com/tobua/tobua/raw/main/images/masua.png" width="20%" alt="masua" />
+    <a style="text-decoration: none" href="https://github.com/tobua/zero-configuration">
+        <img src="https://github.com/tobua/tobua/raw/main/images/zero-configuration.png" width="19.6%" alt="zero-configuration" />
     </a>
-    <a href="https://github.com/tobua/overflow-scroll-fade">
-        <img src="https://github.com/tobua/tobua/raw/main/images/overflow-scroll-fade.png" width="20%" alt="overflow-scroll-fade" />
+    <a style="text-decoration: none" href="https://github.com/tobua/masua">
+        <img src="https://github.com/tobua/tobua/raw/main/images/masua.png" width="19.6%" alt="masua" />
     </a>
-    <a href="https://github.com/tobua/optica">
-        <img src="https://github.com/tobua/tobua/raw/main/images/optica.png" width="20%" alt="optica" />
+    <a style="text-decoration: none" href="https://github.com/tobua/overflow-scroll-fade">
+        <img src="https://github.com/tobua/tobua/raw/main/images/overflow-scroll-fade.png" width="19.6%" alt="overflow-scroll-fade" />
     </a>
-    <a href="https://github.com/tobua/zero-configuration">
-        <img src="https://github.com/tobua/tobua/raw/main/images/zero-configuration.png" width="20%" alt="zero-configuration" />
+    <a style="text-decoration: none" href="https://github.com/tobua/optica">
+        <img src="https://github.com/tobua/tobua/raw/main/images/optica.png" width="19.6%" alt="optica" />
     </a>
-    <a href="https://github.com/tobua/epic-cli">
-        <img src="https://github.com/tobua/tobua/raw/main/images/epic-cli.png" width="20%" alt="epic-cli" />
+    <a style="text-decoration: none" href="https://github.com/tobua/epic-cli">
+        <img src="https://github.com/tobua/tobua/raw/main/images/epic-cli.png" width="19.6%" alt="epic-cli" />
+    </a>
+<p>
+
+## 🚧 EPIC Framework (in Development)
+
+<p float="left">
+    <a style="text-decoration: none" href="https://github.com/tobua/epic-jsx">
+        <img src="https://github.com/tobua/tobua/raw/main/images/epic-jsx.png" width="19.6%" alt="epic-jsx" />
+    </a>
+    <a style="text-decoration: none" href="https://github.com/tobua/epic-state">
+        <img src="https://github.com/tobua/tobua/raw/main/images/epic-state.png" width="19.6%" alt="epic-state" />
+    </a>
+    <a style="text-decoration: none" href="https://github.com/tobua/epic-tag">
+        <img src="https://github.com/tobua/tobua/raw/main/images/epic-tag.png" width="19.6%" alt="epic-tag" />
+    </a>
+    <a style="text-decoration: none" href="https://github.com/tobua/epic-router">
+        <img src="https://github.com/tobua/tobua/raw/main/images/epic-router.png" width="19.6%" alt="epic-router" />
+    </a>
+    <a style="text-decoration: none" href="https://github.com/tobua/epic-language">
+        <img src="https://github.com/tobua/tobua/raw/main/images/epic-language.png" width="19.6%" alt="epic-language" />
     </a>
 <p>
